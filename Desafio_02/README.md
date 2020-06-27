@@ -8,11 +8,6 @@ Nesse desafio, você deve criar uma aplicação para treinar o que você aprende
 
 Essa será uma aplicação para armazenar repositórios do seu portfólio, que irá permitir a criação, listagem, atualização e remoção dos repositórios, e além disso permitir que os repositórios possam receber "likes".
 
-
-<p align="center">
-  <img  src="./assets/nodejs-example.png">
-</p>
-
 ### Rotas da aplicação
 
 Agora que você já está com o template clonado, e pronto para continuar, você deve abrir o arquivo app.js, e completar onde não possui código com o código para atingir os objetivos de cada rota.
